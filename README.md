@@ -6,7 +6,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/github-snake/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Iamshreyasc8/github-snake/output/github-snake-dark.svg"
     />
 
     <source
@@ -21,8 +21,3 @@
     />
   </picture>
 </p>
-
-Replace:
-YOUR_GITHUB_USERNAME
-
-with your GitHub username.
